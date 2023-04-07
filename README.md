@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Spotify-2.0
 
 Develop an elegant React.js Music Application. 
 
